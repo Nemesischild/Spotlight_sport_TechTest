@@ -1,4 +1,6 @@
-Cucumber - Tech test Eaxmple using wdio
+Cucumber - SpotlightTech test Eaxmple using wdio
+
+The core & structure of this project is based on : https://github.com/webdriverio/cucumber-boilerplate, which gave me the initial framework to work with and also supplied some pre-written helpers (support folder). This also allowed me to get up and running without having to completely re-write the wdio.config or the package.lock files. I have left references to the original author of this project in these files to ensure credit is given where it is due.
 
 ## Requirements
 
@@ -28,7 +30,7 @@ Start the local web server:
 $ yarn run test
 ```
 
-To run your tests just call the [WDIO runner](http://webdriver.io/guide/testrunner/gettingstarted.html):
+To run the tests just call the [WDIO runner](http://webdriver.io/guide/testrunner/gettingstarted.html):
 
 ```sh
 $ yarn run wdio
