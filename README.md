@@ -11,13 +11,11 @@ Also this project doesn't cover setting up a proper test environment. You need t
 
 ## start
 
-Choose one of the following options:
-
 1. Clone the git repo — `git clone https://github.com/Nemesischild/Spotlight_sport_TechTest.git
 
 2. Ensure 'yarn' is installed - Although this project works fine with NPM I recommend to use Yarn (>= 1.0.0) instead,  due to its speed & solid dependency locking mechanism. To keep things simple I used yarn, but feel free to replace this with NPM if that is what you are using.
 
-3. Clean the project (Optional):
+3. Clean the project:
 -- Run `yarn run clean`
 
 4. Install the dependencies (`yarn install`)
